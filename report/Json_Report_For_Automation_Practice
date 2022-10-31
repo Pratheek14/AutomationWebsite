@@ -1,0 +1,402 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "User Opens The Automation Application",
+        "description": "",
+        "id": "purchasing-clothing-products-in-automation-practice-application;user-opens-the-automation-application",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 4,
+            "name": "user Launches The Automation Application",
+            "match": {
+              "location": "Autoprac_Stepdefinition.user_Launches_The_Automation_Application()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "user Moves To The SignIn Button",
+            "match": {
+              "location": "Autoprac_Stepdefinition.user_Moves_To_The_SignIn_Button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "user Clicks The SignN Button",
+            "match": {
+              "location": "Autoprac_Stepdefinition.user_Clicks_The_SignN_Button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "user Gets Navigated To The SignIn Page",
+            "match": {
+              "location": "Autoprac_Stepdefinition.user_Gets_Navigated_To_The_SignIn_Page()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 2,
+            "name": "@Firstautoscenario"
+          }
+        ]
+      },
+      {
+        "line": 9,
+        "name": "User Enters The Login Details",
+        "description": "",
+        "id": "purchasing-clothing-products-in-automation-practice-application;user-enters-the-login-details",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 10,
+            "name": "user Gets Navigated To The Login Page",
+            "match": {
+              "location": "Autoprac_Stepdefinition.user_Gets_Navigated_To_The_Login_Page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 11,
+            "name": "user Enters The Email In Email Field",
+            "match": {
+              "location": "Autoprac_Stepdefinition.user_Enters_The_Email_In_Email_Field()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 12,
+            "name": "use Enters The Password In Password Field",
+            "match": {
+              "location": "Autoprac_Stepdefinition.use_Enters_The_Password_In_Password_Field()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 13,
+            "name": "user Clicks Login And It Navigates To The Next Page",
+            "match": {
+              "location": "Autoprac_Stepdefinition.user_Clicks_Login_And_It_Navigates_To_The_Next_Page()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 8,
+            "name": "@Secondautoscenario"
+          }
+        ]
+      },
+      {
+        "line": 15,
+        "name": "User Selects The Required Product",
+        "description": "",
+        "id": "purchasing-clothing-products-in-automation-practice-application;user-selects-the-required-product",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 16,
+            "name": "user Gets Navigated To The Product Display Page",
+            "match": {
+              "location": "Autoprac_Stepdefinition.user_Gets_Navigated_To_The_Product_Display_Page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 17,
+            "name": "user Scrolls And Moves To The Required Product Panel",
+            "match": {
+              "location": "Autoprac_Stepdefinition.user_Scrolls_And_Moves_To_The_Required_Product_Panel()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 18,
+            "name": "user Clicks Add To Cart Button",
+            "match": {
+              "location": "Autoprac_Stepdefinition.user_Clicks_Add_To_Cart_Button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 19,
+            "name": "user Clicks Proceed To Checkout And It Proceeds To The Next Page",
+            "match": {
+              "location": "Autoprac_Stepdefinition.user_Clicks_Proceed_To_Checkout_And_It_Proceeds_To_The_Next_Page()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 21,
+        "name": "User Enters The Desired Quantity Of The Product",
+        "description": "",
+        "id": "purchasing-clothing-products-in-automation-practice-application;user-enters-the-desired-quantity-of-the-product",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 22,
+            "name": "user Gets Navigated To The Quantity Selection Screen",
+            "match": {
+              "location": "Autoprac_Stepdefinition.user_Gets_Navigated_To_The_Quantity_Selection_Screen()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 23,
+            "name": "user Clears The Quantity TextField",
+            "match": {
+              "location": "Autoprac_Stepdefinition.user_Clears_The_Quantity_TextField()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 24,
+            "name": "user Enters The Required Quantity",
+            "match": {
+              "location": "Autoprac_Stepdefinition.user_Enters_The_Required_Quantity()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 25,
+            "name": "user Clicks Proceed To Checkout And It Navigates To The Next Page",
+            "match": {
+              "location": "Autoprac_Stepdefinition.user_Clicks_Proceed_To_Checkout_And_It_Navigates_To_The_Next_Page()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 27,
+        "name": "User Enters And Selects The User\u0027s Address",
+        "description": "",
+        "id": "purchasing-clothing-products-in-automation-practice-application;user-enters-and-selects-the-user\u0027s-address",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 28,
+            "name": "user Gets Navigated To The Address Selection Page",
+            "match": {
+              "location": "Autoprac_Stepdefinition.user_Gets_Navigated_To_The_Address_Selection_Page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 29,
+            "name": "user Selects The Address",
+            "match": {
+              "location": "Autoprac_Stepdefinition.user_Selects_The_Address()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 30,
+            "name": "user Clicks The Correct Address",
+            "match": {
+              "location": "Autoprac_Stepdefinition.user_Clicks_The_Correct_Address()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 31,
+            "name": "user Clicks Proceed To Checkout And It Navigates To The Next Shipping Page",
+            "match": {
+              "location": "Autoprac_Stepdefinition.user_Clicks_Proceed_To_Checkout_And_It_Navigates_To_The_Next_Shipping_Page()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 33,
+        "name": "User Checks And Selects The Shipping Option",
+        "description": "",
+        "id": "purchasing-clothing-products-in-automation-practice-application;user-checks-and-selects-the-shipping-option",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 34,
+            "name": "user Gets Navigated To The Shipping Options Page",
+            "match": {
+              "location": "Autoprac_Stepdefinition.user_Gets_Navigated_To_The_Shipping_Options_Page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 35,
+            "name": "user Selects The Required Shipping  Option",
+            "match": {
+              "location": "Autoprac_Stepdefinition.user_Selects_The_Required_Shipping_Option()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 36,
+            "name": "user Clicks The Terms Agreement Button",
+            "match": {
+              "location": "Autoprac_Stepdefinition.user_Clicks_The_Terms_Agreement_Button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 37,
+            "name": "user Clicks The Proceed To Checkout Button And It Navigates To The Next Page",
+            "match": {
+              "location": "Autoprac_Stepdefinition.user_Clicks_The_Proceed_To_Checkout_Button_And_It_Navigates_To_The_Next_Page()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 39,
+        "name": "User Selects The Payment And Confirms Order",
+        "description": "",
+        "id": "purchasing-clothing-products-in-automation-practice-application;user-selects-the-payment-and-confirms-order",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 40,
+            "name": "user Gets Navigated To The Payments Page",
+            "match": {
+              "location": "Autoprac_Stepdefinition.user_Gets_Navigated_To_The_Payments_Page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 41,
+            "name": "User Selects The Adequate Payment Method",
+            "match": {
+              "location": "Autoprac_Stepdefinition.user_Selects_The_Adequate_Payment_Method()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 42,
+            "name": "User Clicks On The Payment Method",
+            "match": {
+              "location": "Autoprac_Stepdefinition.user_Clicks_On_The_Payment_Method()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 43,
+            "name": "user Clicks Confirm My Order",
+            "match": {
+              "location": "Autoprac_Stepdefinition.user_Clicks_Confirm_My_Order()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Purchasing Clothing Products In Automation Practice Application",
+    "description": "",
+    "id": "purchasing-clothing-products-in-automation-practice-application",
+    "keyword": "Feature",
+    "uri": "C:/Users/Pratheek/eclipse-workspace/cucumberproj/src/test/java/com/automationprac/feature/AutomationPrac.feature"
+  }
+]
